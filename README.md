@@ -1,4 +1,4 @@
-# PlaySceneDropdown 🎮
+# unity-scene-tools 🎮
 
 **A Unity Editor extension that lets you set a default Play Mode scene easily!**
 
