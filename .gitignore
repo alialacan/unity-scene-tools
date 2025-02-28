@@ -72,3 +72,6 @@ crashlytics-build.properties
 Assets/Obi/
 Recordings/
 /Assets/TextMesh Pro/
+# Ignore the .idea directory and its contents
+.idea/
+
