@@ -1,4 +1,7 @@
-# unity-scene-tools 🎮
+[![Unity Version](https://img.shields.io/badge/Unity-2022%2B-blue.svg)](https://unity.com/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+# unity-scene-tools
 
 **A Unity Editor extension that lets you set a default Play Mode scene easily!**
 
