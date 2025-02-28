@@ -8,6 +8,8 @@
 ✔️ Centered UI in **Scene View toolbar**  
 ✔️ Saves your selection between Unity sessions  
 
+![Scene Dropdown](Assets/Screenshots/scene_dropdown.png)
+
 ## 🚀 Installation
 1. Clone the repo or download the `Editor/PlaySceneDropdown.cs` file.
 2. Place it inside your Unity project under `Assets/Editor/`.
