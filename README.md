@@ -11,12 +11,17 @@
 ✔️ Centered UI in **Scene View toolbar**  
 ✔️ Saves your selection between Unity sessions  
 
-![Scene Dropdown](Assets/Screenshots/scene_dropdown.png)
+![Scene Dropdown](Documentation~/scene_dropdown.png)
 
 ## 🚀 Installation
-1. Clone the repo or download the `Editor/PlaySceneDropdown.cs` file.
-2. Place it inside your Unity project under `Assets/Editor/`.
-3. Restart Unity, and the dropdown will appear in the **Scene View**.
+
+You can easily install **Unity Scene Tools** via Unity Package Manager:
+
+1. Open your Unity project.
+2. Go to **Window > Package Manager**.
+3. In the Package Manager window, click on the **+** button at the top left and select **Add package from Git URL**.
+4. Paste the following URL: `https://github.com/alialacan/unity-scene-tools.git`
+5. Click **Add** and the package will be imported into your project.
 
 ## 📖 Usage
 - Open **Scene View**.

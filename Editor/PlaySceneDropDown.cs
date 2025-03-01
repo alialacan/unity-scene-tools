@@ -9,7 +9,7 @@ using UnityEngine.SceneManagement;
 
 #endregion
 
-namespace Editor
+namespace UnitySceneTools.Editor
 {
     [InitializeOnLoad]
     public static class PlaySceneDropdown
